@@ -1,0 +1,34 @@
+{
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.2",
+    "prettier": "^2.8.4",
+    "standard": "^17.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "scriptname": "husky"
+  },
+  "name": "soutenance_git",
+  "description": "Installer un outils de développement par exemple VSCode ([download](https://code.visualstudio.com/download))",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisGauvain/soutenance_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LouisGauvain/soutenance_git/issues"
+  },
+  "homepage": "https://github.com/LouisGauvain/soutenance_git#readme"
+}
